@@ -14,7 +14,9 @@ To get started with a project, simply navigate to the respective project directo
 
 Here's a list of projects included in this repository:
 
-1. **Robo Speaker**
+1. **Talk W Me**
+2. **Rock Paper Scissor**
+
 
 
 Feel free to explore the projects and choose one that interests you. Happy coding!
