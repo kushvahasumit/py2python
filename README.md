@@ -14,9 +14,11 @@ To get started with a project, simply navigate to the respective project directo
 
 Here's a list of projects included in this repository:
 
-1. **Talk W Me**
+1. **Talk With Me**
 2. **Rock Paper Scissor**
-
+3. **Set Alarm clock**
+4. **Horror Game**
+5. **Password Manager**
 
 
 Feel free to explore the projects and choose one that interests you. Happy coding!
